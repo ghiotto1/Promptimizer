@@ -1,0 +1,2 @@
+# Purpose
+This file lists the dependencies required for a Python project, specifically the libraries `matplotlib`, `seaborn`, and `pandas`. These libraries are commonly used for data visualization and data manipulation, indicating that the project likely involves data analysis or visualization tasks. This file is typically used by package managers to install the necessary packages for the project environment.
